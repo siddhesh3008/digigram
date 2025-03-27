@@ -1,4 +1,4 @@
-# digigram
+# Sahu Technologies Internship
 **Project: Digigram Landing Page**
 
 **Overview:**  
